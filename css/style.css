@@ -55,6 +55,7 @@ section {
     background-color: deepskyblue;
     padding: 5px;
     margin: 10px;
+    width:30%;
 }
 
 #skill {
@@ -76,7 +77,8 @@ footer {
     color: azure;
     text-align: center;
     padding-top: 10px;
-    position: sticky;
+    position: absolute;
+    bottom: 0;
 }
 
 .maj {
